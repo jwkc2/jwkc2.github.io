@@ -1,0 +1,11 @@
+home:
+    title: Home
+    permalink: 
+
+posts:
+    title: Posts
+    permalink: posts
+
+about:
+    title: About
+    permalink: about
