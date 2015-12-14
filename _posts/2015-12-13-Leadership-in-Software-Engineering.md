@@ -2,7 +2,7 @@
 layout: post
 title:  "Leadership in Software Engineering"
 date:   2015-12-13 13:02
-categories: software-engineering management
+categories: software-engineering project-management
 ---
 
 In many software engineering contexts and situations, one needs to exhibit good leadership qualities, whether is nominally the appointed leader, just filling in, or even just picking up the slack on some piece of work.
