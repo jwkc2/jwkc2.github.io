@@ -9,45 +9,45 @@ In the course of my career, I've have seen projects and companies brought do the
 
 The following is what I consider to be an effective definition of what is best practice in documentation.
 
-Why Document?
+# Why Document?
 
 * Institutional Memory
 * Avoid silo-ing of information
 * Avoid dependency on individuals - "What if X was hit by a bus tomorrow?!"
 * Prevents multiplying cost of development
 
-Documentation is NOT the aim
+# Documentation is NOT the aim
 
 * Too much and it chokes productivity
 * Too little and the project falls into the abyss of abandon-ware
 * Documentation should be minimal but must be sufficient
 
-Documentation is…
+# Documentation is…
 
 * A trail of breadcrumbs for the next person (backwards)
 * A template to success for you (forwards)
 
-Key Components
+# Key Components
 
 * Do have just a few key documents that are continually referenced and updated (‘living’)
 * Do create and use document templates
 * Main page
 * Architectural diagram
 
-Style
+# Style
 
 * Do have a checklist mentality
 * Do have an emphasis on diagrams – architectural, sequences
 * Use plain English
 * Use the optimal, minimal number of words to communicate
 
-Good Habits
+# Good Habits
 
 * Do record any manual process
 * Do make notes as you go along; if you leave it to the end, you’ll fail
 * Post-It Notes are your colour-coded, modular friends.
 
-Source Code
+# Source Code
 
 * Do use a documentation tool
 * Do an overview for each class, not individual class (member) functions
