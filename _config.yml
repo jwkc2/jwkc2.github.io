@@ -16,3 +16,9 @@ github_username: jwkc2
 
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM
+ 
+#markdown: redcarpet
+#redcarpet:
+#  extensions: [ "no_intra_emphasis", "tables", "fenced_code_blocks", "autolink", "with_toc_data", "strikethrough" ]
