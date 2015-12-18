@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Leadership in Software Engineering"
-date:   2015-12-13 13:02
+title: "Leadership in Software Engineering"
+permalink: /leadership-in-software-engineering/
+date: 2015-12-13 13:02
 categories: software-engineering project-management
 ---
 

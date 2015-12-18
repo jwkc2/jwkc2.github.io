@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Manifesto"
-date:   2015-12-12 15:08
+title: "Manifesto"
+permalink: /manifesto/
+date: 2015-12-12 15:08
 categories: software-engineering
 ---
 

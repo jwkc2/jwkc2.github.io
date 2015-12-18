@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Core Principles"
-date:   2015-12-14 20:07
+title: "Core Principles"
+permalink: /core-principles/
+date: 2015-12-14 20:07
 categories: software-engineering project-management
 ---
 

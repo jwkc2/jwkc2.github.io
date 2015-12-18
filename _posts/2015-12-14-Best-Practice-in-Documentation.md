@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "Best Practice in Documentation"
-date:   2015-12-14 19:31
+title: "Best Practice in Documentation"
+permalink: /best-practice-in-documentation/
+date: 2015-12-14 19:31
 categories: software-engineering project-management documentation
 ---
 
-In the course of my career, I've have seen projects and companies brought do their knees by one thing - lack of documentation. In fact, I'm convinced the lack of good documentation is at least the leading cause of spiralling development costs, if not project failure.
+Over the course of my career, I've have seen projects and companies brought do their knees by one thing - lack of documentation. In fact, I'm convinced the lack of good documentation is at least the leading cause of spiralling development costs, if not project failure.
 
 The following is what I consider to be an effective definition of what is best practice in documentation.
 

@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Wall of Infamy"
-date:   2015-12-14 18:48
+title: "Wall of Infamy"
+permalink: /wall-of-infamy/
+date: 2015-12-14 18:48
 categories: software-engineering human-resources
 ---
 
