@@ -9,7 +9,7 @@
 title: Simple Software Engineering
 email: jwkc2@cantab.net
 description: > # this means to ignore newlines until "baseurl:"
-  A place to dump some thoughts and ideas I've been developing over time.
+  This site contains a collection of thoughts, ideas and resources about best practice in software engineering and project management.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jwkc2.github.io" # the base hostname & protocol for your site
 github_username: jwkc2
