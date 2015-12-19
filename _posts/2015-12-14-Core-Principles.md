@@ -6,7 +6,7 @@ date: 2015-12-14 20:07
 categories: software-engineering project-management
 ---
 
-This is short-list of core ideas that's ideal for carrying around on a small card.
+This is short-list of core ideas that's ideal for printing on a small card.
 
 * Don’t reinvent the wheel.
 * Ugly, undocumented code is expensive.
@@ -19,9 +19,9 @@ This is short-list of core ideas that's ideal for carrying around on a small car
 
 * No egos. Insecure narcissists are a misery to work with.
 * No false economies. Penny-wise, pound foolish.
-* No ignored ‘smells’. Notice it - record it, highlight it.
+* No ignored ‘smells’. Notice it, record it, highlight it.
 
 * No-one owns anything. The illusion of ownership ▶︎ silos ▶︎ disaster
 * Never ask anyone to do something you’re not prepared to do yourself.
-* Taste your food… before serving it to someone else.
+* Taste your cooking... before serving it to someone else.
 * Good Estimation = Experience + Pessimism. Lots of pessimism.

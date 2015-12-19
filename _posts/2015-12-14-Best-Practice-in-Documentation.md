@@ -6,7 +6,7 @@ date: 2015-12-14 19:31
 categories: software-engineering project-management documentation
 ---
 
-Over the course of my career, I've have seen projects and companies brought do their knees by one thing - lack of documentation. In fact, I'm convinced the lack of good documentation is at least the leading cause of spiralling development costs, if not project failure.
+Over the course of my career, I've seen projects and companies brought to their knees by one thing - lack of documentation. In fact, I'm convinced the lack of good documentation is at least the leading cause of spiralling development costs, if not project failure.
 
 The following is what I consider to be an effective definition of what is best practice in documentation.
 
@@ -30,26 +30,26 @@ The following is what I consider to be an effective definition of what is best p
 
 # Key Components
 
-* Do have just a few key documents that are continually referenced and updated (‘living’)
-* Do create and use document templates
+* A few, key, 'living' documents that are continually referenced and updated
+* Document templates
 * Main page
 * Architectural diagram
 
 # Style
 
-* Do have a checklist mentality
-* Do have an emphasis on diagrams – architectural, sequences
+* Have a checklist mentality
+* Have an emphasis on diagrams – architectural, sequences
 * Use plain English
 * Use the optimal, minimal number of words to communicate
 
 # Good Habits
 
-* Do record any manual process
-* Do make notes as you go along; if you leave it to the end, you’ll fail
+* Record any manual process
+* Make notes as you go along; if you leave it to the end, you’ll fail
 * Post-It Notes are your colour-coded, modular friends.
 
 # Source Code
 
-* Do use a documentation tool
-* Do an overview for each class, not individual class (member) functions
-* Do use one line comments within functions
+* Use a documentation tool
+* Write an overview for each class, not individual class (member) functions
+* Use one line comments within functions

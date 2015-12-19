@@ -6,15 +6,15 @@ date: 2015-12-13 13:02
 categories: software-engineering project-management
 ---
 
-In many software engineering contexts and situations, one needs to exhibit good leadership qualities, whether is nominally the appointed leader, just filling in, or even just picking up the slack on some piece of work.
+In many software engineering contexts and situations, one needs to exhibit good leadership qualities, whether as the appointed leader, just filling in, or even just picking up the slack on some piece of work.
 
-Here are some thoughts on leadership I developed with experience.
+Here are some thoughts on leadership that I developed with experience.
 
 * Has a vision (where to go)
 * Has a strategy (how to get there), without being dogmatic
 * Clear, simple, effective communication
 
-* Defines the standard, by example
+* Sets the standard, by example
 * Cool under pressure
 * Secure in own skin
 * Never asks anyone to do anything they’re not prepared to do
